@@ -21,7 +21,7 @@
 
 1. Клонируйте репозиторий или скачайте исходный код:
    ```
-   git clone <repository-url>
+   git clone https://github.com/KalibriyaRey/steam-review-parser.git
    cd steam-review-parser
    ```
 
